@@ -1,7 +1,3 @@
-Here’s an updated version of your README file with **icons for programming languages and technologies** to make it visually appealing. I'll use popular icons that align with your skill set.
-
----
-
 # 👋 Hi there, I'm Muhammad Fawzi!
 
 🎓 **Junior Software Engineer** | **Full Stack .NET Developer**  
@@ -88,7 +84,7 @@ I am a **Full Stack .NET Developer** with expertise in **C#**, **Android Develop
 
 ## 📫 Connect with Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/muhammad-fawzi-0771281b8/)  
-- 📧 **Email**: muhammad.fawzi@example.com
+- 📧 **Email**: imuhammadfawzi@gmail.com
 
 ---
 
