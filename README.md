@@ -1,77 +1,99 @@
-<h1 align="center">Hi 👋, I'm Muhammad Fawzi</h1>
-<h3 align="center">A passionate Junior Software Engineer and Full Stack .NET Developer from Egypt</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" />
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=imuhammad-fawzi&label=Profile%20views&color=0e75b6&style=flat" alt="imuhammad-fawzi" />
-</p>
-
-- 🌱 I’m currently learning **MEAN Stack, ASP.NET Core, and Android Development**
-- 💬 Ask me about **Data Analytics, Full Stack Development, and Secure Coding**
-- 📫 How to reach me: **muhammadfawzi02@gmail.com**
-- ⚡ Fun fact: **I think I am funny**
+Here’s an updated version of your README file with **icons for programming languages and technologies** to make it visually appealing. I'll use popular icons that align with your skill set.
 
 ---
 
-<h3 align="left">🔗 Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/muhammad-fawzi-0771281b8" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
-  </a>
-  <a href="https://fb.com/mohamedfawzi59" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" />
-  </a>
-</p>
+# 👋 Hi there, I'm Muhammad Fawzi!
+
+🎓 **Junior Software Engineer** | **Full Stack .NET Developer**  
+💻 Passionate about creating robust, scalable, and efficient applications with modern technologies.
 
 ---
 
-<h3 align="left">🛠️ Languages and Tools:</h3>
-<p align="left">
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
-  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-  </a>
-  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/>
-  </a>
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-</p>
+## 🚀 About Me
+I am a **Full Stack .NET Developer** with expertise in **C#**, **Android Development**, and modern web frameworks. I thrive on learning new skills, solving challenging problems, and building impactful applications.  
+
+🔭 **Currently working on:** Building full-stack web and mobile applications, exploring advanced .NET features, and secure coding practices.  
+🌱 **Actively learning:** Microsoft Web Applications, MEAN Stack, and modern JavaScript frameworks.
 
 ---
 
-<h3 align="left">📈 GitHub Stats:</h3>
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imuhammad-fawzi&show_icons=true&locale=en&layout=compact" alt="imuhammad-fawzi" />
-</p>
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=imuhammad-fawzi&show_icons=true&locale=en" alt="imuhammad-fawzi" />
-</p>
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imuhammad-fawzi&" alt="imuhammad-fawzi" />
-</p>
+## 🛠️ My Skills
+
+### **Languages & Frameworks**  
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)  
+
+### **Frontend Development**
+- **HTML5 & CSS3**: Semantic markup and responsive design.  
+- **Bootstrap Framework**: Rapid prototyping and styling.  
+- **Angular Fundamentals**: Building modern single-page applications.  
+- **JavaScript (ES6+) & TypeScript**: Dynamic and scalable web applications.
+
+### **Backend Development**
+- **C# .NET**: Expertise in object-oriented programming and .NET Core development.  
+- **Entity Framework & LINQ**: Database-first and code-first approaches for seamless data handling.  
+- **SQL Server Programming**: Advanced SQL queries, stored procedures, and indexing.
+
+### **Android Development**
+- **Java SDK**: Proficient in Android app development using Java.  
+- **Kotlin**: Experienced in modern Android application development.  
+- **SQLite**: Managing offline storage for mobile applications.  
+
+### **Microsoft Web Applications**
+- **ASP.NET MVC Core**: Designing scalable and modular applications.  
+- **ASP.NET Web API**: Building RESTful APIs for modern applications.
+
+### **MEAN Stack Development**
+- Proficient in **Modern JavaScript (ES6+)**, **TypeScript**, and **Angular Framework**.
+
+### **Soft Skills & Freelancing**
+- Effective **presentation and communication skills**.  
+- Experienced in **freelancing** and **interview preparation**.
+
+### **Workshops & Supporting Courses**
+- **OS & Network Fundamentals**: Deep understanding of system and network basics.  
+- **Software Testing**: Ensuring quality in software development processes.  
+- **Agile Methodologies**: Working efficiently in agile environments.  
+- **Source Control**: Proficient in Git and GitHub workflows.  
+- **Secure Coding**: Writing secure and efficient code.
 
 ---
 
-Feel free to copy and paste this content into your README file. Let me know if you'd like to make further adjustments!
+## 🌟 Projects
+
+### **Finder Application**  
+- **Technologies**: Kotlin, Java SDK, SQLite, Python models  
+- **Description**: A mobile application for solving missing person cases using advanced image similarity algorithms.
+
+### **Android Projects**  
+- Developed several applications using **Java** and **Kotlin**, integrating modern UI/UX designs and offline database functionality with **SQLite**.
+
+### **SQL & Data Management**  
+- Implemented advanced SQL techniques like **ROLLUP**, **CUBE**, and **PIVOT** for data analysis and reporting.
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical)
+
+---
+
+## 📫 Connect with Me
+- 💼 [LinkedIn](https://www.linkedin.com/in/muhammad-fawzi-0771281b8/)  
+- 📧 **Email**: muhammad.fawzi@example.com
+
+---
+
+Feel free to collaborate on projects or reach out for any exciting opportunities. Let's build something amazing together!
+
+---
+
+Let me know if this format works for you or if you'd like any further adjustments!
