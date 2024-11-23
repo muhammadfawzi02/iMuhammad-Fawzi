@@ -86,10 +86,3 @@ I am a **Full Stack .NET Developer** with expertise in **C#**, **Android Develop
 - 💼 [LinkedIn](https://www.linkedin.com/in/muhammad-fawzi-0771281b8/)  
 - 📧 **Email**: imuhammadfawzi@gmail.com
 
----
-
-Feel free to collaborate on projects or reach out for any exciting opportunities. Let's build something amazing together!
-
----
-
-Let me know if this format works for you or if you'd like any further adjustments!
